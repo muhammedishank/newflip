@@ -1,0 +1,318 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: #2874f0;
+    width: 100%;
+    height: 56px;
+    padding: 0px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue,Helvetica,Arialns-serif;
+}
+.image-1st-logo{
+    width: 89px;
+
+    padding-left: 170px;
+    padding-top: 5px;
+}
+.input{
+    top: 11px;
+    left: 266px;
+    position: absolute;
+    width: 426px;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+
+}
+.logbutton{
+    position: absolute;
+    left: 758px;
+    top: 12px;
+    width: 110px;
+    height: 31px;
+    background: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    color: #2874f0;
+    letter-spacing: .1px;
+    border-radius: 2px;
+    border: none;
+    cursor: pointer;
+}
+.more-button{
+    border-radius: 5px; 
+    border:1px;
+    background: #2874f0;
+    font-size: 16px;
+    color:#fff;
+    position: absolute;
+    left: 930px;
+    top: 20px;
+    width: 60px;
+    font-weight:550;
+    cursor: pointer;
+}
+.image-cart{
+    position: absolute;
+    left: 1040px;
+    cursor: pointer;
+    top: 14px;
+    height: 29px
+}
+.second-header{
+    background: #fff;
+    width:100%;
+    height: 112px;
+    padding: 0px;
+}
+.img-1{
+    padding-top: 10px;
+    width: 80px;
+}
+.img-2{
+    padding-top: 10px;
+    width: 64px;
+    height: 64px;
+    margin-left: 42px;
+}
+.img-3{
+    padding-top: 10px;
+
+    width: 64px;
+    height: 64px;
+    margin-left: 70px;
+}
+.img-4{
+    padding-top: 10px;
+    width: 64px;
+    height: 64px;
+    margin-left: 75px;
+}
+.fashion-button{
+    font-weight: 500;font-size: 14px;position: absolute;
+    top: 141px;
+    margin-left: -63px;
+    top: 141px;
+    margin-left: -69px;
+    width: 73px;background-color: #fff;
+    border-radius: 5px; 
+    border:1px;
+    cursor: pointer;
+}
+.img-5{
+    padding-top: 10px;
+    width: 64px;
+    height: 64px;
+    margin-left: 82px;
+}
+.el-button{
+    font-weight: 500;font-size: 14px;position: absolute;
+    top: 141px;
+    margin-left: -63px;
+    width: 90px;top: 141px;
+    margin-left: -79px;
+    background-color: #fff;
+    border-radius: 5px; 
+    border:1px;
+    cursor: pointer;
+}
+.img-6{
+    padding-top: 10px;
+    width: 64px;
+    height: 64px;
+    margin-left: 70px;
+}
+.home-button{
+    font-weight: 500;font-size: 14px;position: absolute;
+    top: 141px;
+    margin-left: -63px;
+    width: 73px;top: 141px;
+    margin-left: -69px;
+    background-color: #fff;
+    border-radius: 5px; 
+    border:1px;
+    cursor: pointer;
+}
+.img-7{
+    padding-top: 10px;
+    width: 64px;
+    height: 64px;
+    margin-left: 75px;
+}
+.apls-button{
+    font-weight: 500;font-size: 14px;position: absolute;
+    top: 141px;
+    margin-left: -63px;
+    width: 90px;top: 141px;
+    margin-left: -69px;
+    background-color: #fff;
+    border-radius: 5px; 
+    border:1px;
+    cursor: pointer;
+}
+.img-8{
+    padding-top: 10px;
+    width: 64px;
+    height: 64px;
+    margin-left: 75px;
+}
+.img-9{
+    padding-top: 10px;
+    width: 64px;
+    height: 64px;
+    margin-left: 75px;
+}
+.toys-button{
+    font-weight: 500;font-size: 14px;position: absolute;
+    top: 141px;
+    margin-left: -63px;
+    width: 145px;
+    top: 141px;
+    margin-left: -105px;
+    background-color: #fff;
+    border-radius: 5px; 
+    border:1px;
+    cursor: pointer;
+}
+.third-header{
+    background: #fff;
+    width:100%;
+    height: 280px;
+   
+  
+   cursor: pointer;
+}
+.head3-img{
+    width: 100%;
+    height: 274px;
+}
+.bar-1{
+    position: absolute;
+    top: 249px;
+    left: 0px;
+}
+.bar-2{
+    position: absolute;
+    top: 249px;
+    left: 1212px;
+}
+.fourth-header{
+    background: #fff;
+    width:75%;
+    height: 40px;
+    padding: 15px 20px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    margin-left: 7px;
+   
+}
+.hd-4wrt{
+    font-size: 22px;
+    line-height: 32px;
+    display: inline-block;
+    font-weight: 500;
+    position: absolute;
+    top: 463px;
+}
+.v-albutt{
+    position: absolute;
+    left: 850px;
+    top: 463px;
+    width: 106px;
+    height: 46px;
+    background-color:#2874f0;
+    border-radius: 5px; 
+    border:1px;
+    cursor: pointer;
+    font-size: 12px;
+    
+    color: #fff;
+    letter-spacing: .1px;
+}
+.fifth-header{
+    background: #fff;
+    width:23%;
+    height: 350px;
+    position: absolute;
+    left: 965px;
+    top: 462px;  
+    cursor: pointer;
+}
+.head5-img{
+    height:350px;
+    width: 100%;
+    margin-left: 7px;
+}
+.sixth-header{
+    width: 78.5%;
+    height: 273px;
+    background-color: #fff;
+    margin: 7px;
+}
+
+.sxh-img1{
+    position: absolute;
+    width: 130px;
+    height: 135px;
+    left: 44px;
+    top: 570px;
+}
+.sxh-img1:hover{
+    width: 140px;
+    height: 145px;
+}
+.sxh-img2{
+    position: absolute;
+    width: 130px;
+    height: 135px;
+    left: 225px;
+    top: 570px;
+}
+.sxh-img2:hover{
+    width: 140px;
+    height: 145px;
+}
+.sxh-img3{
+    position: absolute;
+    width: 130px;
+    height: 135px;
+    left: 407px;
+    top: 570px;
+}
+.sxh-img3:hover{
+    width: 140px;
+    height: 145px;
+}
+.sxh-img4{
+    position: absolute;
+    width: 130px;
+    height: 135px;
+    left: 590px;
+    top: 570px;
+}
+.sxh-img4:hover{
+    width: 140px;
+    height: 145px;
+}
+.sxh-img5{
+    position: absolute;
+    width: 130px;
+    height: 135px;
+    left: 774px;
+    top: 570px;
+}
+.sxh-img5:hover{
+    width: 140px;
+    height: 145px;
+    
+}
+.bar-3{
+    position: absolute;
+    top: 608px;
+    left: 911px;
+    cursor: pointer;
+}
+
